@@ -260,7 +260,7 @@ function exchangeFund() {
 function getOperate() {
     // log("http get");
     try {
-        var v_url = "http://192.168.2.2:888/?balance=" + v_balance + "&" + "stock=" + v_stockVal;
+        var v_url = "http://192.168.2.254:888/?balance=" + v_balance + "&" + "stock=" + v_stockVal;
         log(v_url);
         var res = http.get(v_url);
         res = res.body.string();
