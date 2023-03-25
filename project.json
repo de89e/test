@@ -1,0 +1,10 @@
+{
+    "name": "test",
+    "main": "main.js",
+    "ignore": [
+        "build"
+    ],
+    "packageName": "com.test",
+    "versionName": "1.0.0",
+    "versionCode": 1
+}
