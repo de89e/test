@@ -35,7 +35,7 @@
 //     log(c_config[0]);
 // }else{
 //     files.create("/sdcard/config.txt");
-//     files.write("/sdcard/config.txt","老崔答题配置项#100#100#7");
+//     files.write("/sdcard/config.txt","答题配置项#100#100#7");
 // }
 // launchApp('中国银河证券');
 //text('解锁交易').findOnce().click();
